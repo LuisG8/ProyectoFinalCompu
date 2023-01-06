@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Lab_Computacion.vcxproj, ProyectoFinal.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Final.cpp
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\include\shader_m.h(44): warning C4101: 'e': variable local sin referencia
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\include\modelanim.h(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\include\modelanim.h(520): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(547): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(566): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(567): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(578): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(601): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(602): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(613): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(642): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(792): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(801): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(829): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(838): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(865): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(874): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(900): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(909): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(922): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(931): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(950): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(959): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(970): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(979): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1879): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1880): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1884): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1885): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1887): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1888): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\padre tiempo\source\repos\proyectofinal-main\proyectofinal-main\final.cpp(1896): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  ProyectoFinal-main.vcxproj -> C:\Users\Padre Tiempo\source\repos\ProyectoFinal-main\Debug\ProyectoFinal-main.exe

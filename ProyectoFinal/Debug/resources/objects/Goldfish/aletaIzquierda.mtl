@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 03.01.2023 17:25:55
+
+newmtl Ryukin_Goldfish
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5700 0.4359 0.1498
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.5800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd 13001_Ryukin_Goldfish_diff.jpg
